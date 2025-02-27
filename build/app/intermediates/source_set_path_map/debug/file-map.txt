@@ -18,10 +18,10 @@ com.example.flutter02.app-jetified-startup-runtime-1.1.1-16 /home/daniel/.gradle
 com.example.flutter02.app-jetified-annotation-experimental-1.4.0-17 /home/daniel/.gradle/caches/transforms-3/c4537ab9015740d05f09a422063523a5/transformed/jetified-annotation-experimental-1.4.0/res
 com.example.flutter02.app-fragment-1.7.1-18 /home/daniel/.gradle/caches/transforms-3/ca4d40f38b71d4c621d36eba6fe2f4a4/transformed/fragment-1.7.1/res
 com.example.flutter02.app-jetified-tracing-1.2.0-19 /home/daniel/.gradle/caches/transforms-3/e896b9ac412a8814559a776dc7b5a420/transformed/jetified-tracing-1.2.0/res
-com.example.flutter02.app-debug-20 /home/daniel/DCLIC/flutter2/android/app/src/debug/res
-com.example.flutter02.app-main-21 /home/daniel/DCLIC/flutter2/android/app/src/main/res
-com.example.flutter02.app-pngs-22 /home/daniel/DCLIC/flutter2/build/app/generated/res/pngs/debug
-com.example.flutter02.app-resValues-23 /home/daniel/DCLIC/flutter2/build/app/generated/res/resValues/debug
-com.example.flutter02.app-packageDebugResources-24 /home/daniel/DCLIC/flutter2/build/app/intermediates/incremental/debug/packageDebugResources/merged.dir
-com.example.flutter02.app-packageDebugResources-25 /home/daniel/DCLIC/flutter2/build/app/intermediates/incremental/debug/packageDebugResources/stripped.dir
-com.example.flutter02.app-merged_res-26 /home/daniel/DCLIC/flutter2/build/app/intermediates/merged_res/debug
+com.example.flutter02.app-debug-20 /home/daniel/DCLIC/flutter/android/app/src/debug/res
+com.example.flutter02.app-main-21 /home/daniel/DCLIC/flutter/android/app/src/main/res
+com.example.flutter02.app-pngs-22 /home/daniel/DCLIC/flutter/build/app/generated/res/pngs/debug
+com.example.flutter02.app-resValues-23 /home/daniel/DCLIC/flutter/build/app/generated/res/resValues/debug
+com.example.flutter02.app-packageDebugResources-24 /home/daniel/DCLIC/flutter/build/app/intermediates/incremental/debug/packageDebugResources/merged.dir
+com.example.flutter02.app-packageDebugResources-25 /home/daniel/DCLIC/flutter/build/app/intermediates/incremental/debug/packageDebugResources/stripped.dir
+com.example.flutter02.app-merged_res-26 /home/daniel/DCLIC/flutter/build/app/intermediates/merged_res/debug
